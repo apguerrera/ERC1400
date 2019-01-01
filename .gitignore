@@ -8,11 +8,9 @@ package-json.lock
 yarn-error.log
 
 # Generated files
-artifacts
 build
 dist
 coverage
 coverage.json
 coverageEnv
 allFiredEvents
-export
