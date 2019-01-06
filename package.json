@@ -38,7 +38,7 @@
   "contributors": [
     "Julien Marchand <julien.marchand4@gmail.com>"
   ],
-  "license": "MIT",
+  "license": "Apache",
   "bugs": {
     "url": "https://gitlab.com/ConsenSys/mesh/boilerplates/solidity/boilerplate-solidity/issues"
   },
